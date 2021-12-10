@@ -1,0 +1,38 @@
+h2{
+    text-align: center;
+    margin-bottom: 10px;
+}
+#he{
+    text-align: center;
+    margin-bottom: 25px;
+}
+form{
+    border:4px solid palevioletred;
+    width: 700px;
+    margin:auto;
+    height: 400px;
+    background-color: rgb(230, 227, 230);
+}
+label{
+    margin-left:15px;
+}
+input{
+    margin-left:15px;
+    border-color: turquoise;
+    border-radius: 1%;
+    width: 95%;
+}
+#comment{
+    margin-left:15px;
+    border-color: turquoise;
+    border-radius: 1%;
+    width: 95%;
+}
+#btn{
+    text-align: center;
+    padding: 10px;
+    background-color: lightseagreen;
+    color: white;
+    border-radius: 5px;
+    margin-left: 300px;
+}
